@@ -1,0 +1,2 @@
+# autoscalevmss-memory
+ 
